@@ -12,6 +12,8 @@ The dataset provided is in the form of one word per line. Let's understand the f
 
 ![image](https://user-images.githubusercontent.com/25382680/189512726-e58d264a-7fc4-4ebb-9385-9e4eb46fad98.png)
 
+**D: Disease, T: Treatment**
+
 The tasks accomplished in the notebook are:
 1. Data preprocessing
 2. Concept identification
