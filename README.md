@@ -26,6 +26,10 @@ To derive Name Entity Recognition (NER) on Medical data set so that we can class
 * **[Chatbot](https://github.com/aziz-ullah-khan/data-science/tree/main/chatbot):**
 Chatbot - Specific for Japanese but can be used for any language with slight tunning!
 
+* **[Microsoft Research Sentence Completion](https://github.com/aziz-ullah-khan/data-science/tree/main/microsoft%20research%20sentence%20completion):**
+Sentence completion is a challenging task and is extremely time consuming, which is the challenge of today. Many researchers worked on the autocompletion of the sentence but the complexity arise with the high volume of textual data processing. N-grams along with word2vec and with the combination of wordnet play a key role in the solving the problem by allowing the words to vectorize with the help of word2vec and the distances between the words can be found for similarity. Wordnet which is a lexical database and having semantic relationship between words in over twenty hundred languages and is the part of Natural Language Toolkit corpus. In this study n-grams (uni-gram, bi-gram, tri-gram) are implemented separately and also along with wordnet with word2vec. The dataset used in this study is the Microsoft research sentence completion challenge. The models are first trained with the training textual data and performance is evaluated on the multiple-choice question with five options. The evaluation metrics shown for this study are accuracy, precession, recall, f-1 score respectively. In this novel approach satisfactory results are generated.
+
+
 ---
 
 
