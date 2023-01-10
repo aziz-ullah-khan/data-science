@@ -11,12 +11,12 @@
 
 ## Projects:
 
-Here in this repo you can find notebooks of myt data science and machine learning projects.
+Here in this repo you can find notebooks of my data science and machine learning projects.
 
 * **[Swift Code Information Extractor Using Transformer NER](https://github.com/aziz-ullah-khan/data-science/tree/main/swift%20code%20information%20extraction):**
 This project is the like a prototype for understanding Swift code by a layman with a native understandable language. The trained model detect the variable type, variable name, object type, object name etc in Swift code. 
 
-* **[Firefox Bugs Classification Using Classical machine learning and BERT](https://github.com/aziz-ullah-khan/data-science/tree/main/Firefox%20Bugs%20Classification):**
+* **[Firefox Bugs Classification Using Classical Machine Learning and BERT](https://github.com/aziz-ullah-khan/data-science/tree/main/Firefox%20Bugs%20Classification):**
 For the purpose of bugs reports classification, information gathered from the users as feedback or captured from reporting the bugs to the developers, here in this research a tool is developed which are classifying the bugs into their respective bug type with the subsequent classification of the bug reports into their respective components as well. Machine learning techniques such as BERT are proved quite performing in this study for the classification of bugs. It also showed that the bug reports with the help of machine learning can quickly fixed the bugs by identifying the bug in no time and user experience is also promised. Moreover, the proposed model can be further enhanced in different areas.
 
 * **[Quora Question Pairs](https://github.com/aziz-ullah-khan/data-science/tree/main/quora%20question%20pairs):**
