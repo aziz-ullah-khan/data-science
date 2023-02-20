@@ -13,6 +13,9 @@
 
 Here in this repo you can find notebooks of my data science and machine learning projects.
 
+* **[Hate Speech Detection Using Transformer](https://github.com/aziz-ullah-khan/data science/blob/main/hate%20speech%20detection/Hate_Speech_Detection.ipynb):**
+This project implements a hate speech detection model using the Huggingface Transformers library and the DeBERTa algorithm. The model can classify tweets into one of three categories: hate speech, offensive language, or neutral. The Kaggle Hate Speech and Offensive Language Dataset was used for training and testing the model.
+
 * **[Swift Code Information Extractor Using Transformer NER](https://github.com/aziz-ullah-khan/data-science/tree/main/swift%20code%20information%20extraction):**
 This project is the like a prototype for understanding Swift code by a layman with a native understandable language. The trained model detect the variable type, variable name, object type, object name etc in Swift code. 
 
