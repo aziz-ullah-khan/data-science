@@ -13,6 +13,9 @@
 
 Here in this repo you can find notebooks of my data science and machine learning projects.
 
+* **[Forecasting of COVID](https://github.com/aziz-ullah-khan/data-science/blob/main/forecasting%20of%20Covid/Forecasting_of_COVID.ipynb):**
+In this project, we used time-series forecasting to predict the spread of COVID-19 in different countries. To do this, we used the Kaggle COVID-19 dataset and the Meta AI Prophet library, which was great for handling seasonality and other time-series characteristics. We started by exploring and preprocessing the data, built a baseline model, and then created Prophet models. We evaluated our models using various metrics and aimed to provide insights to inform public health policies and interventions in the fight against COVID-19.
+
 * **[Hate Speech Detection Using Transformer](https://github.com/aziz-ullah-khan/data-science/blob/main/hate%20speech%20detection/Hate_Speech_Detection.ipynb):**
 This project implements a hate speech detection model using the Huggingface Transformers library and the DeBERTa algorithm. The model can classify tweets into one of three categories: hate speech, offensive language, or neutral. The Kaggle Hate Speech and Offensive Language Dataset was used for training and testing the model.
 
