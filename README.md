@@ -13,14 +13,17 @@
 
 Here in this repo you can find notebooks of my data science and machine learning projects.
 
+* **[Movie Recommendation](https://github.com/aziz-ullah-khan/data-science/blob/main/movie%20recommendation/Movie_Recommendation.ipynb):**
+In this project, I use the Movielens dataset and Microsoft Recommenders library to build a movie recommendation system using SAR algorithm. The system is based on user's past movie preferences and can suggest movies to them. The project aims to provide accurate recommendations for both popular and niche items.
+
 * **[Forecasting of COVID](https://github.com/aziz-ullah-khan/data-science/blob/main/forecasting%20of%20Covid/Forecasting_of_COVID.ipynb):**
-In this project, we used time-series forecasting to predict the spread of COVID-19 in different countries. To do this, we used the Kaggle COVID-19 dataset and the Meta AI Prophet library, which was great for handling seasonality and other time-series characteristics. We started by exploring and preprocessing the data, built a baseline model, and then created Prophet models. We evaluated our models using various metrics and aimed to provide insights to inform public health policies and interventions in the fight against COVID-19.
+In this project, I used time-series forecasting and the Meta AI Prophet library to predict the spread of COVID-19 across countries using the Kaggle COVID-19 dataset. I explored and preprocessed the data, built baseline and Prophet models, and evaluated their performance using various metrics. My goal was to provide insights to inform public health policies and interventions in the fight against COVID-19.
 
 * **[Hate Speech Detection Using Transformer](https://github.com/aziz-ullah-khan/data-science/blob/main/hate%20speech%20detection/Hate_Speech_Detection.ipynb):**
-This project implements a hate speech detection model using the Huggingface Transformers library and the DeBERTa algorithm. The model can classify tweets into one of three categories: hate speech, offensive language, or neutral. The Kaggle Hate Speech and Offensive Language Dataset was used for training and testing the model.
+In this project, I implemented a hate speech detection model using the DeBERTa algorithm and the Huggingface Transformers library. The model is capable of classifying tweets into one of three categories: hate speech, offensive language, or neutral. I used the Kaggle Hate Speech and Offensive Language Dataset to train and test the model.
 
 * **[Swift Code Information Extractor Using Transformer NER](https://github.com/aziz-ullah-khan/data-science/tree/main/swift%20code%20information%20extraction):**
-This project is the like a prototype for understanding Swift code by a layman with a native understandable language. The trained model detect the variable type, variable name, object type, object name etc in Swift code. 
+This project is like a prototype for understanding Swift code by a layman with a native understandable language. The trained model detect the variable type, variable name, object type, object name etc in Swift code. 
 
 * **[Firefox Bugs Classification Using Classical Machine Learning and BERT](https://github.com/aziz-ullah-khan/data-science/tree/main/Firefox%20Bugs%20Classification):**
 For the purpose of bugs reports classification, information gathered from the users as feedback or captured from reporting the bugs to the developers, here in this research a tool is developed which are classifying the bugs into their respective bug type with the subsequent classification of the bug reports into their respective components as well. Machine learning techniques such as BERT are proved quite performing in this study for the classification of bugs. It also showed that the bug reports with the help of machine learning can quickly fixed the bugs by identifying the bug in no time and user experience is also promised. Moreover, the proposed model can be further enhanced in different areas.
