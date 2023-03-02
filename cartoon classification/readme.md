@@ -1,4 +1,4 @@
-# Welcome to my Movie Recommendation Project!
+# Welcome to my Cartoon Classification Project!
 ---
 
 Introduction:
