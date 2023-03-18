@@ -13,6 +13,9 @@
 
 Here in this repo you can find notebooks of my data science and machine learning projects.
 
+* **[Paper Summarization](https://github.com/aziz-ullah-khan/data-science/blob/main/paper%20summarization/Paper_Summarization.ipynb):**
+This project demonstrates the use of the Bidirectional and Auto-Regressive Transformer (BART) model provided by the Huggingface Transformers library to generate summaries for academic papers in the arXiv Summarization Dataset. By the end of this project, you will have a better understanding of how to use BART to generate summaries for academic papers, and how to evaluate the quality of the generated summaries.
+
 * **[Cartoon Classification](https://github.com/aziz-ullah-khan/data-science/blob/main/cartoon%20classification/Cartoon_Classification.ipynb):**
 This project, CARTOON CLASSIFICATION, uses deep learning to identify characters from the TV show "The Simpsons." The ResNet18 algorithm is utilized to train a model on the Kaggle Simpsons Characters Data, with the aim of providing an intuitive and hands-on approach to image classification using deep learning.
 
