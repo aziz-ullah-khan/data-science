@@ -13,6 +13,9 @@
 
 Here in this repo you can find notebooks of my data science and machine learning projects.
 
+* **[News Recommendation](https://github.com/aziz-ullah-khan/data-science/blob/main/news%20recommendation/News_Recommendation.ipynb):**
+This project is focused on building a news recommendation system using NLP and recommendation systems. Using the Microsoft MIND dataset and the Microsoft Recommenders library, we implement the LSTUR algorithm to provide a personalized and accurate experience for users.
+
 * **[Paper Summarization](https://github.com/aziz-ullah-khan/data-science/blob/main/paper%20summarization/Paper_Summarization.ipynb):**
 This project demonstrates the use of the Bidirectional and Auto-Regressive Transformer (BART) model provided by the Huggingface Transformers library to generate summaries for academic papers in the arXiv Summarization Dataset. By the end of this project, you will have a better understanding of how to use BART to generate summaries for academic papers, and how to evaluate the quality of the generated summaries.
 
