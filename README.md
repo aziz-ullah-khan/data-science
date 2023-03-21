@@ -13,6 +13,9 @@
 
 Here in this repo you can find notebooks of my data science and machine learning projects.
 
+* **[Celebrity Identification](https://github.com/aziz-ullah-khan/data-science/blob/main/celebrity%20identification/Celebrity_Identification.ipynb):**
+This project uses the Face API to detect and identify celebrities in images, leveraging its high accuracy and advanced features. Our Celebrity Face Recognition Dataset contains images of famous individuals from various fields, making it a valuable tool for security, social media, and marketing applications. Join us as we explore the exciting world of Celebrity Identification with the Face API!
+
 * **[News Recommendation](https://github.com/aziz-ullah-khan/data-science/blob/main/news%20recommendation/News_Recommendation.ipynb):**
 This project is focused on building a news recommendation system using NLP and recommendation systems. Using the Microsoft MIND dataset and the Microsoft Recommenders library, we implement the LSTUR algorithm to provide a personalized and accurate experience for users.
 
