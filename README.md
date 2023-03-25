@@ -13,6 +13,9 @@
 
 Here in this repo you can find notebooks of my data science and machine learning projects.
 
+* **[Autoplay CartPole](https://github.com/aziz-ullah-khan/data-science/blob/main/autoplay%20cartpole/Autoplay_CartPole.ipynb):**
+Explore the power of reinforcement learning with CartPole! In this project, we'll use the Proximal Policy Optimization (PPO) algorithm to train agents to balance a pole on top of a cart. With the Autoplay feature, we can observe the agent's performance in real-time as it masters the game. The OpenAI gym CartPole dataset provides the game environment, while the Ray library offers the necessary tools to build and train our agent. By the end of this project, you will gain a better understanding of how reinforcement learning can be applied to solve complex problems such as CartPole.
+
 * **[Celebrity Identification](https://github.com/aziz-ullah-khan/data-science/blob/main/celebrity%20identification/Celebrity_Identification.ipynb):**
 This project uses the Face API to detect and identify celebrities in images, leveraging its high accuracy and advanced features. Our Celebrity Face Recognition Dataset contains images of famous individuals from various fields, making it a valuable tool for security, social media, and marketing applications. Join us as we explore the exciting world of Celebrity Identification with the Face API!
 
