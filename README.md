@@ -13,6 +13,9 @@
 
 Here in this repo you can find notebooks of my data science and machine learning projects.
 
+* **[Explanation Notebook](https://github.com/aziz-ullah-khan/data-science/blob/main/explanation%20notebook/Explanation_Notebook.ipynb):**
+This is an explanation notebook that provides a detailed overview of logistic regression, a popular algorithm for binary classification. The notebook uses the Iris plant dataset from Scikit-learn and the Vowpal Wabbit library to demonstrate logistic regression in action. It serves as a valuable resource for anyone looking to understand the underlying concepts of logistic regression and its implementation.
+
 * **[Autoplay CartPole](https://github.com/aziz-ullah-khan/data-science/blob/main/autoplay%20cartpole/Autoplay_CartPole.ipynb):**
 Explore the power of reinforcement learning with CartPole! In this project, we'll use the Proximal Policy Optimization (PPO) algorithm to train agents to balance a pole on top of a cart. With the Autoplay feature, we can observe the agent's performance in real-time as it masters the game. The OpenAI gym CartPole dataset provides the game environment, while the Ray library offers the necessary tools to build and train our agent. By the end of this project, you will gain a better understanding of how reinforcement learning can be applied to solve complex problems such as CartPole.
 
