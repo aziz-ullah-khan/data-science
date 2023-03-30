@@ -13,6 +13,9 @@
 
 Here in this repo you can find notebooks of my data science and machine learning projects.
 
+* **[Football Player Tracking](https://github.com/aziz-ullah-khan/data-science/blob/main/football%20player%20tracking/Football_Player_Tracking.ipynb):**
+This portfolio project focuses on the task of football player tracking using the Sports Videos in the Wild dataset from the University of Michigan and the Ultralytics YOLOv5 algorithm. The project aims to develop a functioning model that can accurately track players in football matches and provide insights into player performance and team dynamics.
+
 * **[Explanation Notebook](https://github.com/aziz-ullah-khan/data-science/blob/main/explanation%20notebook/Explanation_Notebook.ipynb):**
 This is an explanation notebook that provides a detailed overview of logistic regression, a popular algorithm for binary classification. The notebook uses the Iris plant dataset from Scikit-learn and the Vowpal Wabbit library to demonstrate logistic regression in action. It serves as a valuable resource for anyone looking to understand the underlying concepts of logistic regression and its implementation.
 
