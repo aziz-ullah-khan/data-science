@@ -1,4 +1,4 @@
-# Autoplay CartPole
+# Football Player Tracking
 ---
 
 Welcome to the Football Player Tracking notebook! In this project, we will focus on the task of player tracking in football matches. Football is one of the most popular sports in the world, and tracking player movements is crucial for analyzing player performance, team tactics, and generating data-driven insights for coaches and analysts.
