@@ -43,6 +43,10 @@ In this project, I used time-series forecasting and the Meta AI Prophet library 
 * **[Hate Speech Detection Using Transformer](https://github.com/aziz-ullah-khan/data-science/blob/main/hate%20speech%20detection/Hate_Speech_Detection.ipynb):**
 In this project, I implemented a hate speech detection model using the DeBERTa algorithm and the Huggingface Transformers library. The model is capable of classifying tweets into one of three categories: hate speech, offensive language, or neutral. I used the Kaggle Hate Speech and Offensive Language Dataset to train and test the model.
 
+
+* **[Microbusiness Density Forecasting](https://github.com/aziz-ullah-khan/data-science/blob/main/microbusiness%20density%20forecasting/Microbusiness_Density_Forecasting.ipynb):**
+In this project, I participated in a forecasting competition to predict the density of microbusinesses in counties across the United States. I used various regression models to make predictions, and the best performing model was chosen for final submission.
+
 * **[Swift Code Information Extractor Using Transformer NER](https://github.com/aziz-ullah-khan/data-science/tree/main/swift%20code%20information%20extraction):**
 This project is like a prototype for understanding Swift code by a layman with a native understandable language. The trained model detect the variable type, variable name, object type, object name etc in Swift code. 
 
