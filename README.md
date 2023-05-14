@@ -14,7 +14,7 @@
 Here in this repo you can find notebooks of my data science and machine learning projects.
 
 * **[Automate your Stuff](https://github.com/aziz-ullah-khan/stuff-automation):**
-This project focuses on the task automation on files mainly Excel files with the usage of AugoGPT. The project aims to develop an approach that will automate all the boring stuff like data entry, google searching for certain keywords, analysing keywords etc.
+This project focuses on the task automation on files mainly Excel files with the usage of AutoGPT. The project aims to develop an approach that will automate all the boring stuff like data entry, google searching for certain keywords, analysing keywords etc.
 
 * **[Football Player Tracking](https://github.com/aziz-ullah-khan/data-science/blob/main/football%20player%20tracking/Football_Player_Tracking.ipynb):**
 This project focuses on the task of football player tracking using the Sports Videos in the Wild dataset from the University of Michigan and the Ultralytics YOLOv5 algorithm. The project aims to develop a functioning model that can accurately track players in football matches and provide insights into player performance and team dynamics.
